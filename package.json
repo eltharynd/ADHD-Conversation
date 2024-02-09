@@ -1,0 +1,16 @@
+{
+	"name": "adhdbrain",
+	"version": "1.0.0",
+	"description": "relax it's just memes",
+	"main": "dist/index.js",
+	"scripts": {
+		"build": "tsc",
+		"start": "node dist/index.js"
+	},
+	"author": "Laurent Schwitter",
+	"license": "ISC",
+	"dependencies": {
+		"rxjs": "^7.8.1",
+		"uuid": "^9.0.1"
+	}
+}
